@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RestaurantProj
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Restaurant-Management
+>>>>>>> c1fe377c49e412ae6b3ab3c1e2a25c1191fc32d6
