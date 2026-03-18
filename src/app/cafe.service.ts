@@ -11,7 +11,7 @@ export class CafeService {
     "id": 1,
     "photo": "assets/pasta1.jpg",
     "name": "Pasta",
-    "price": 300,
+    "price": 250,
     "menutype": "snacks",
     "category": 1
   },
@@ -19,7 +19,7 @@ export class CafeService {
     "id": 2,
     "photo": "assets/pizzaveg.jpg",
     "name": "Pizza",
-    "price": 320,
+    "price": 275,
     "menutype": "snacks",
     "category": 1
   },
@@ -27,7 +27,7 @@ export class CafeService {
     "id": 3,
     "photo": "assets/coldcoffee.jpg",
     "name": "Cold-Coffee",
-    "price": 270,
+    "price": 150,
     "menutype": "beverages",
     "category": 1
   },
@@ -35,7 +35,7 @@ export class CafeService {
     "id": 4,
     "photo": "assets/nburger.jpg",
     "name": "Chicken Burger",
-    "price": 270,
+    "price": 220,
     "menutype": "snacks",
     "category": 2
   },
@@ -43,7 +43,7 @@ export class CafeService {
     "id": 5,
     "photo": "assets/rich-chocolate-brownie.jpg",
     "name": "Brownie",
-    "price": 190,
+    "price": 110,
     "menutype": "desserts",
     "category": 1
   },
