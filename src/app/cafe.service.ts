@@ -10,7 +10,7 @@ export class CafeService {
   {
     "id": 1,
     "photo": "assets/pasta1.jpg",
-    "name": "Pasta",
+    "name": "Pastaa",
     "price": 250,
     "menutype": "snacks",
     "category": 1
