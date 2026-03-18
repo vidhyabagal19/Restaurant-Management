@@ -19,7 +19,7 @@ export class CafeService {
     "id": 2,
     "photo": "assets/pizzaveg.jpg",
     "name": "Pizza",
-    "price": 450,
+    "price": 320,
     "menutype": "snacks",
     "category": 1
   },
